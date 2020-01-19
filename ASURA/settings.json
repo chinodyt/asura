@@ -1,0 +1,12 @@
+{
+    "model" : {
+        "unet" : {
+            "model_type" : "unet",
+            "batch_size" : 1,
+            "epochs" : 300
+        }
+    },
+    "datasets": {
+        "sample": "./sample/"
+    }        
+}
