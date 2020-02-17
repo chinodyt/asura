@@ -22,20 +22,23 @@ To test ASURA segmentation, you can use the `run.py` script. The parameters of t
 
 The ASURA framework is a direct result of the following paper: 
 
-> Chino, D. Y. T; Scabora, L. C.; Cazzolato, M. T.; Jorge, A. E. S.; Traina-Jr, C.; Traina, A. M. J.; *"Segmenting Skin Ulcers and Measuring the Wound Area Using Deep Convolutional Networks"* 
+> Chino, D. Y. T; Scabora, L. C.; Cazzolato, M. T.; Jorge, A. E. S.; Traina-Jr, C.; Traina, A. M. J.; *"Segmenting Skin Ulcers and Measuring the Wound Area Using Deep Convolutional Networks"*. Computer Methods and Programs in Biomedicine (CMPB), v.191, p.1 - 11, 2020.
+
 
 The ASURA's source code is available for researches and data scientists under the GNU General Public License. In case of publication and/or public use of the available sources, one should acknowledge its creators by citing the paper.
-<!---
+
 Bibtex:
 ```
-@article{ChinoEtAl,  
-      author = {Daniel Y. T. Chino and  
-                Lucas C. Scabora and  	
-    		    Mirela T. Cazzolato and 
-                Ana E. S. Jorge and  
-                Caetano Traina-Jr. and  
-                Agma J. M. Traina},
-      title = {Segmenting Skin Ulcers and Measuring the Wound Area Using Deep Convolutional Networks},
+@article{Chino2020,
+    title = "Segmenting skin ulcers and measuring the wound area using deep convolutional networks",
+    journal = "Computer Methods and Programs in Biomedicine",
+    volume = "191",
+    pages = "105376",
+    year = "2020",
+    issn = "0169-2607",
+    doi = "https://doi.org/10.1016/j.cmpb.2020.105376",
+    url = "http://www.sciencedirect.com/science/article/pii/S016926071931404X",
+    author = "Daniel Y.T. Chino and Lucas C. Scabora and Mirela T. Cazzolato and Ana E.S. Jorge and Caetano Traina-Jr. and Agma J.M. Traina"},
 }
 ```
--->
+
